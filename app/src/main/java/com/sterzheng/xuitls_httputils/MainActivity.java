@@ -1,4 +1,4 @@
-package com.zhufeng.xingxue.xuitls_httputils1;
+package com.sterzheng.xuitls_httputils1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
